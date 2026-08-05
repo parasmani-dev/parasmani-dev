@@ -1,4 +1,4 @@
-#<h1 align="center">Parasmani</h1>
+<h1 align="center">Parasmani Kushwaha</h1>
 <h3 align="center">Full-Stack Developer · Open Source Contributor</h3>
 
 <p align="center">
