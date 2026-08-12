@@ -1,5 +1,5 @@
 <h1 align="center">Parasmani Kushwaha</h1>
-<h3 align="center">Full-Stack Developer Â· Open Source Contributor</h3>
+<h3 align="center">Full-Stack Developer · Open Source Contributor</h3>
 
 <p align="center">
 I enjoy working on real-world problems, understanding existing systems, debugging issues, and turning ideas into maintainable software.
@@ -11,23 +11,23 @@ I'm currently looking to contribute to open-source projects where I can <b>learn
 
 ---
 
-## ðŸ§­ What I'm Looking For
+## 🧭 What I'm Looking For
 
 I'm open to contributing across different areas, including:
 
-* ðŸŒ Full-stack & web development
-* ðŸ§ª Testing & test infrastructure
-* ðŸ”§ Developer tooling & automation
-* ðŸ¤– AI/ML & AI-powered developer tools
-* âš™ï¸ Backend systems & APIs
-* ðŸ“š Educational technology
-* ðŸ› ï¸ Improving existing features and developer workflows
+* 🌐 Full-stack & web development
+* 🧪 Testing & test infrastructure
+* 🔧 Developer tooling & automation
+* 🤖 AI/ML & AI-powered developer tools
+* ⚙️ Backend systems & APIs
+* 📚 Educational technology
+* 🛠️ Improving existing features and developer workflows
 
 I'm particularly interested in projects where I can gradually move from **good-first issues to more complex, ownership-driven contributions**.
 
 ---
 
-## ðŸ› ï¸ Technical Skills
+## 🛠️ Technical Skills
 
 **Languages**
 
@@ -66,14 +66,14 @@ I'm particularly interested in projects where I can gradually move from **good-f
 
 ---
 
-## ðŸš€ Selected Work
+## 🚀 Selected Work
 
 * **Walter**
 * **ScreenSense**
 
 ---
 
-## ðŸ”— Connect
+## 🔗 Connect
 
 <p>
 <a href="https://github.com/parasmani-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -83,7 +83,7 @@ I'm particularly interested in projects where I can gradually move from **good-f
 
 ---
 
-## ðŸ“Š GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/parasmani-dev/parasmani-dev/main/metrics.svg" alt="GitHub Metrics" />
