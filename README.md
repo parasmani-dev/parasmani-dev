@@ -15,7 +15,7 @@ I'm currently looking to contribute to open-source projects where I can <b>learn
 
 I'm open to contributing across different areas, including:
 
-* 🌐 Full-stack & web development
+* 🌐Web development
 * 🧪 Testing & test infrastructure
 * 🔧 Developer tooling & automation
 * 🤖 AI/ML & AI-powered developer tools
@@ -63,13 +63,6 @@ I'm particularly interested in projects where I can gradually move from **good-f
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0052CC?style=for-the-badge&logo=devbox&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 🚀 Selected Work
-
-* **Walter**
-* **ScreenSense**
 
 ---
 
